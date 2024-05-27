@@ -1,10 +1,10 @@
-## Introduce My Work Experience 🏢
+### My Work Experience 🏢
 
 - 👩🏻‍💼 Sparta Coding Club for 8 months.
 - 👩🏻‍💼 NAVER for 3 months.
 - 👩🏻‍💼 SNOW for 3 months.
 
-## Introduce My Work Skills 🙌🏻
+### My Work Skills 🙌🏻
 
 - 💻 Web / App Development.
 - 💻 SQL / Python Data Analysis.🏢
