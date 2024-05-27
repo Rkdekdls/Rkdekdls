@@ -1,4 +1,13 @@
-## Hi there 👋
+## Introduce My Work Experience 🏢
+
+- 👩🏻‍💼 Sparta Coding Club for 8 months.
+- 👩🏻‍💼 NAVER for 3 months.
+- 👩🏻‍💼 SNOW for 3 months.
+
+## Introduce My Work Skills 🙌🏻
+
+- 💻 Web / App Development.
+- 💻 SQL / Python Data Analysis.🏢
 
 <!--
 **Rkdekdls/Rkdekdls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
