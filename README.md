@@ -1,13 +1,12 @@
 ### My Work Experience 🏢
-
 - 👩🏻‍💼 Sparta Coding Club for 8 months.
 - 👩🏻‍💼 NAVER for 3 months.
 - 👩🏻‍💼 SNOW for 3 months.
 
 ### My Work Skills 🙌🏻
-
 - 💻 Web / App Development.
-- 💻 SQL / Python Data Analysis.🏢
+- 💻 SQL / Python Data Analysis.
+- 💻 Marketing / Content Planning.
 
 <!--
 **Rkdekdls/Rkdekdls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
