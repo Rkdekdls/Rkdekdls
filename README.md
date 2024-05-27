@@ -1,5 +1,4 @@
 ## Hi there 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kangdain0326)](https://solved.ac/kangdain0326)<br/>
 
 
 <!--
