@@ -2,6 +2,7 @@
 - 🤡 Sparta Coding Club for 8 months.
 - 🍀 NAVER for 3 months.
 - ☃️ SNOW for 3 months.
+- 📚 Megastudy for 4 months ~ ing.
 
 ### My Work Skills 🙌🏻
 - 💻 Web / App Development.
