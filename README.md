@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 <table width="100%"> 
 <colgroup>
 <col width="20%">
@@ -82,3 +83,4 @@
 </tr>
 </tbody>
 </table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
