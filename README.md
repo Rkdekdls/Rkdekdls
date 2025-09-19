@@ -1,25 +1,24 @@
-### My Work Experience 🏢
-- 🤡 Sparta Coding Club for 8 months.
-- 🍀 NAVER for 3 months.
-- ☃️ SNOW for 3 months.
-- 📚 Megastudy for 4 months ~ ing.
+## 🎓 학력 (Education)
+- 성신여자대학교 · **AI융합학부**
 
-### My Work Skills 🙌🏻
-- 💻 Web / App Development.
-- 📊 SQL / Python Data Analysis.
-- 💡 Marketing / Content Planning.
+## 🏢 현 직장 (Current Position)
+- 메가스터디 · **입시전략연구소**
 
-<!--
-**Rkdekdls/Rkdekdls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 인턴십 경험 (Internships)
+- 네이버 · **검색광고팀 데이터 관리 인턴**  
+- 스노우 A STUDIO · **AI 서비스 운영 인턴**
 
-Here are some ideas to get you started:
+## 🏆 자격증 (Certifications)
+- **SQL 개발자 (SQLD)**  
+- **인공지능전문가**  
+- **구글 애널리틱스 자격증**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 대외활동 (Extracurricular Activities)
+- SK텔레콤 · **테크 인플루언서 활동**  
+- LG CNS · **인공지능 교육 멘토**  
+- BDA 데이터분석 학회 · **회원**
+
+## 🥇 수상 경력 (Awards)
+- 신한은행 금융 데이터 분석 공모전 · **27위**  
+- 교내 AI 기반 소프트웨어 경진대회 · **우수상**  
+- GetGPT 서비스 아이디어 공모전 · **우수상**
