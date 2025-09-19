@@ -46,8 +46,8 @@
     <th align="left">🥇 수상</th>
     <td align="left">
       • <nobr>신한은행 금융 데이터 분석 공모전 · 27위</nobr><br>
-      • <nobr>교내 AI 기반 소프트웨어 경진대회 · 우수상</nobr><br>
-      • <nobr>GetGPT 서비스 아이디어 공모전 · 우수상</nobr>
+      • <nobr>GetGPT 서비스 아이디어 공모전 · 우수상</nobr><br>
+      • <nobr>교내 AI 기반 소프트웨어 경진대회 · 우수상</nobr>
     </td>
   </tr>
 </table>
