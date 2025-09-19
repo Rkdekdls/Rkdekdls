@@ -1,8 +1,8 @@
 <table width="100%">
-  <!-- 좌: 10%, 우: 90% (모든 행에 공통 적용) -->
+  <!-- 좌: 15%, 우: 85% (모든 행에 공통 적용) -->
   <colgroup>
-    <col width="15%">
-    <col width="85%">
+    <col width="10%">
+    <col width="90%">
   </colgroup>
 
   <tr>
