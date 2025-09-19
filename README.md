@@ -1,4 +1,4 @@
-<table width="100%">
+<table width="400%">
   <tr>
     <th align="left" width="40%">🎓 학력</th>
     <td align="left">성신여자대학교 · <b>AI융합학부</b></td>
