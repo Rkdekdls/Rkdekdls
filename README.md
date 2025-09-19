@@ -1,12 +1,12 @@
 <table width="100%" border="0" style="border:none; border-collapse:collapse;">
   <tr>
     <!-- 왼쪽: 경력/학력 표 (폭 줄임) -->
-    <td width="50%" valign="top" style="border:none;">
+    <td width="35%" valign="top" style="border:none;">
       <table width="100%">
         <colgroup>
-          <col width="20%">
-          <col width="25%"> 
-          <col width="55%">
+          <col width="25%">
+          <col width="30%"> 
+          <col width="45%">
         </colgroup>
         <thead>
           <tr>
@@ -81,15 +81,17 @@
         </tbody>
       </table>
     </td>
-    <!-- 오른쪽: GitHub Stats + Trophy -->
-    <td width="50%" valign="top" align="center" style="border:none;">
-      <div style="transform: scale(1.3); transform-origin: top center; margin-bottom:20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Rkdekdls&show_icons=true" width="600" />
+    <!-- 오른쪽: GitHub Stats + Trophy + Chart -->
+    <td width="65%" valign="top" align="center" style="border:none;">
+      <div style="transform: scale(1.1); transform-origin: top center; margin-bottom:20px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Rkdekdls&show_icons=true" width="650" />
+      </div>
+      <div style="margin-bottom:20px;">
+        <img src="https://github-profile-trophy.vercel.app/?username=Rkdekdls&theme=flat&row=2&column=4" width="650" />
       </div>
       <div>
-        <img src="https://github-profile-trophy.vercel.app/?username=Rkdekdls&theme=flat&row=2&column=4" />
-      </div>     
-<img src="https://quickchart.io/chart?width=500&height=200&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22React%22%2C%22TypeScript%22%2C%22Vite%22%2C%22Node.js%22%2C%22Express%22%2C%22SQLite%22%2C%22Python%22%2C%22Kotlin%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B18%2C16%2C9%2C13%2C11%2C8%2C15%2C10%5D%2C%22backgroundColor%22%3A%5B%22%2361DAFB%22%2C%22%233178C6%22%2C%22%23FFD62E%22%2C%22%233C873A%22%2C%22%23FF6F61%22%2C%22%234DA5F4%22%2C%22%233776AB%22%2C%22%237F52FF%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22%F0%9F%9A%80%20Tech%20Stack%20Usage%20(%25)%22%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22display%22%3Atrue%2C%22ticks%22%3A%7B%22maxRotation%22%3A0%2C%22minRotation%22%3A0%7D%7D%2C%22y%22%3A%7B%22ticks%22%3A%7B%22display%22%3Afalse%7D%2C%22grid%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D%7D" />
-   </td>
+        <img src="https://quickchart.io/chart?width=650&height=220&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22React%22%2C%22TypeScript%22%2C%22Vite%22%2C%22Node.js%22%2C%22Express%22%2C%22SQLite%22%2C%22Python%22%2C%22Kotlin%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B18%2C16%2C9%2C13%2C11%2C8%2C15%2C10%5D%2C%22backgroundColor%22%3A%5B%22%2361DAFB%22%2C%22%233178C6%22%2C%22%23FFD62E%22%2C%22%233C873A%22%2C%22%23FF6F61%22%2C%22%234DA5F4%22%2C%22%233776AB%22%2C%22%237F52FF%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22%F0%9F%9A%80%20Tech%20Stack%20Usage%20(%25)%22%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22display%22%3Atrue%7D%2C%22y%22%3A%7B%22ticks%22%3A%7B%22display%22%3Afalse%7D%2C%22grid%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D%7D" />
+      </div>
+    </td>
   </tr>
 </table>
