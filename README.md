@@ -1,8 +1,8 @@
 <table width="100%">
   <!-- 좌: 15%, 우: 85% (모든 행에 공통 적용) -->
   <colgroup>
-    <col width="10%">
-    <col width="90%">
+    <col width="15%">
+    <col width="85%">
   </colgroup>
 
   <tr>
@@ -26,7 +26,7 @@
   <tr>
     <th align="left">🏆 자격</th>
     <td align="left">
-      • <nobr>SQL 개발자 (SQLD)</nobr><br>
+      • <nobr>SQL 개발자</nobr><br>
       • <nobr>인공지능전문가</nobr><br>
       • <nobr>구글 애널리틱스</nobr>
     </td>
@@ -37,7 +37,8 @@
     <td align="left">
       • <nobr>SKT · 테크 인플루언서 활동</nobr><br>
       • <nobr>LG CNS · 인공지능 교육 멘토</nobr><br>
-      • <nobr>BDA 데이터분석 학회 · 중급반</nobr>
+      • <nobr>BDA 데이터분석 학회 · 회원</nobr>
+      • <nobr>코드어스 데이터분석 동아리 · 부원</nobr>
     </td>
   </tr>
 
