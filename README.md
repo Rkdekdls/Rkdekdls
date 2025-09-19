@@ -1,6 +1,6 @@
 <table width="100%">
   <tr>
-    <th align="left" width="16%">🎓 학력</th>
+    <th align="left" width="30%">🎓 학력</th>
     <td align="left">• 성신여자대학교 · AI융합학부</td>
   </tr>
   <tr>
