@@ -33,7 +33,7 @@
   </tr>
 
   <tr>
-    <th align="left">⛳ 활동</th>
+    <th align="left">🎯 활동</th>
     <td align="left">
       • <nobr>SKT · 테크 인플루언서 활동</nobr><br>
       • <nobr>LG CNS · 인공지능 교육 멘토</nobr><br>
