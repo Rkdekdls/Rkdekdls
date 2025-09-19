@@ -1,5 +1,6 @@
-<table width="100%">
-  <!-- 좌: 15%, 우: 85% (모든 행에 공통 적용) -->
+<div align="center">
+
+<table width="820">
   <colgroup>
     <col width="15%">
     <col width="85%">
@@ -51,3 +52,5 @@
     </td>
   </tr>
 </table>
+
+</div>
