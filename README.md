@@ -86,9 +86,6 @@
       <div style="transform: scale(1.1); transform-origin: top center; margin-bottom:20px;">
         <img src="https://github-readme-stats.vercel.app/api?username=Rkdekdls&show_icons=true" width="650" />
       </div>
-      <div>
-<img src="https://quickchart.io/chart?width=650&height=830&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22JavaScript%22%2C%22HTML%22%2C%22CSS%22%2C%22TypeScript%22%2C%22SQLite%22%2C%22React%22%2C%22Vite%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B31.9%2C29.2%2C26.5%2C12.4%2C42.6%2C6.1%2C2.0%2C1.8%5D%2C%22backgroundColor%22%3A%5B%22%2399CCFF%22%2C%22%23FFE066%22%2C%22%23FF9999%22%2C%22%23CC99FF%22%2C%22%2380C7FF%22%2C%22%2399E6B3%22%2C%22%23A3F0FF%22%2C%22%23FFD480%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22%F0%9F%9A%80%20Tech%20Stack%20Usage%20(%25)%22%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22display%22%3Atrue%7D%2C%22y%22%3A%7B%22ticks%22%3A%7B%22display%22%3Atrue%7D%2C%22grid%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D%7D" />
-      </div>
     </td>
   </tr>
 </table>
