@@ -81,11 +81,5 @@
         </tbody>
       </table>
     </td>
-    <!-- 오른쪽: GitHub Stats + Trophy + Chart -->
-    <td width="65%" valign="top" align="center" style="border:none;">
-      <div style="transform: scale(1.1); transform-origin: top center; margin-bottom:20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Rkdekdls&show_icons=true" width="650" />
-      </div>
-    </td>
   </tr>
 </table>
